@@ -1,0 +1,10 @@
+2) - http - which load less faster than https 
+     https - which load faster than https and it is secure
+ 
+3) - object is include like ( string ,number,boolean,undefined,null,{},[])object is everything 
+    
+      var objectName ={
+                          name :"santhosh",
+                          rollNo :929374,
+                          Gender : "Male",
+                      }
